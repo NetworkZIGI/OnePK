@@ -1,4 +1,7 @@
-rom onep.element.NetworkElement import NetworkElement
+# http://ThePlmingSpace.tistory.com      Network ZIGI
+# 2014.12.15
+
+from onep.element.NetworkElement import NetworkElement
 from onep.element.SessionConfig import SessionConfig
 from onep.core.util import tlspinning
 
