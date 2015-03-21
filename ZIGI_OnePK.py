@@ -1,7 +1,7 @@
 # http://ThePlmingSpace.tistory.com      Network ZIGI
 # http://ZIGISPACE.NET
 # 2014.12.15
-# Git_TEST
+# Test2
 
 from onep.element.NetworkElement import NetworkElement
 from onep.element.SessionConfig import SessionConfig
